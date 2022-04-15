@@ -1,2 +1,2 @@
-# Exercicio-em-Liguagem-C-I
+#LiguagemC-II
 Exercício de Algoritmos em Linguagem C.
